@@ -33,7 +33,8 @@
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/97550b09-7b13-4b3d-a642-2b816c239c03)
+![image](https://github.com/user-attachments/assets/feb2b02c-e14c-48e4-9f85-af07caf5f6fd)
+
 
 
 Built with ❤️ by Don T. for LTM

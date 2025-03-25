@@ -33,6 +33,7 @@
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📸 Screenshots
-[Insert captivating screenshots of your LTM website here]
+![image](https://github.com/user-attachments/assets/97550b09-7b13-4b3d-a642-2b816c239c03)
+
 
 Built with ❤️ by Don T. for LTM
